@@ -146,3 +146,5 @@ Contributors: [oyamad](https://github.com/oyamad), [QBatista](https://github.com
 1. Removes ``quantecon/models`` subpackage and the collection of code examples. Code has been migrated to the [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications) repository.
 2. Adds a utility for fetching notebook dependencies from [QuantEcon.applications](https://github.com/QuantEcon/QuantEcon.applications) to support community contributed notebooks.
 
+Edit by alblmart on Monday git practiced
+
